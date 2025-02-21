@@ -1,0 +1,14 @@
+nav{
+    background-image: url("./images/bg.jpg");
+    background-blend-mode: soft-light;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header{
+    background-image: url("./images/bg.jpg");
+    /* background-blend-mode: soft-light; */
+    background-blend-mode: soft-light;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
